@@ -26,17 +26,17 @@ for i in range(1, MAX_PAGES):
         html = BeautifulSoup(req.text, "html.parser")
 
         # Obtenemos todos los divs donde estan las entradas
-        entradas = html.find_all('div', {'class': 'col-md-6'})
+        entradas = html.find_all('div', {'class': 'page-header-content border-bottom-2 border-bottom-danger'})
 
         # Recorremos todas las entradas para extraer el título, autor y fecha
         for entrada in entradas:
             counter += 1
-            Nombre = entrada.find('ul', {'class': 'list mb-3'}).getText()
-            #precio = entrada.find('span', {'class': 'price price-has-discount'}).getText()
+            Nombre = entrada.find('span', {'class': 'font-weight-semibold'}).getText()
+            Descripcion = entrada.find('small', {'class': 'd-block text-muted'}).getText()
             #precio_real = entrada.find('span', {'class': 'regular-price'}).getText()
 
             # Imprimo el Título, Autor y Fecha de las entradas
-            print "%d - %s " % (counter, Nombre)
+            print "%d - %s | %s" % (counter, Nombre, Descripcion)
 
     else:
         # Si ya no existe la página y me da un 400

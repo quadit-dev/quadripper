@@ -4,7 +4,7 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Octoparse</title>
+	<title>--Scrapping--</title>
 
 	<!-- Global stylesheets -->
 	<link href="https://fonts.googleapis.com/css?family=Roboto:400,300,100,500,700,900" rel="stylesheet" type="text/css">
@@ -38,7 +38,7 @@
 		<div class="navbar-header navbar-dark d-none d-md-flex align-items-md-center">
 			<div class="navbar-brand navbar-brand-md">
 				<a href="index.html" class="d-inline-block">
-					<h3>Octoparse</h3>
+					<h3>Scrapping</h3>
 				</a>
 			</div>
 	
@@ -76,12 +76,15 @@
 
 			</ul>
 
+
+
+			
 			<ul class="navbar-nav ml-md-auto">
 				<li class="nav-item dropdown">
 					<a href="other_changelog.html" class="navbar-nav-link">
 						<i class="icon-history mr-2"></i>
-						#url
-						<span class="badge bg-warning-400 badge-pill position-static ml-md-2">#.#</span>
+						Recargar pagina
+						<span class="badge bg-warning-400 badge-pill position-static ml-md-2">{{ date('Y-m-d') }}</span>
 					</a>					
 				</li>
 			</ul>
