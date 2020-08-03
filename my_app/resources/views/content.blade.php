@@ -176,7 +176,7 @@
 			<div class="page-header-content border-bottom-2 border-bottom-danger">
 				<div class="page-title">
 					<h5>
-						<i class="icon-stack2"></i> <span class="font-weight-semibold">Curso de Odoo</span> - Quadit
+						<i class="icon-stack2"></i> <span class="font-weight-semibold">Curso de Odoo v2</span> - Quadit
 						<small class="d-block text-muted">Toma el curso de Odoo y haz crecer tu empresa</small>
 					</h5>
 				</div>
@@ -185,7 +185,7 @@
 			<div class="page-header-content border-bottom-2 border-bottom-danger">
 				<div class="page-title">
 					<h5>
-						<i class="icon-stack2"></i> <span class="font-weight-semibold">Curso de Python</span> - Quadit
+						<i class="icon-stack2"></i> <span class="font-weight-semibold">Curso de Python v2</span> - Quadit
 						<small class="d-block text-muted">Ingresa al mundo de la programacion con Python</small>
 					</h5>
 				</div>
@@ -194,7 +194,7 @@
 			<div class="page-header-content border-bottom-2 border-bottom-danger">
 				<div class="page-title">
 					<h5>
-						<i class="icon-stack2"></i> <span class="font-weight-semibold">Curso ERP</span> - Quadit
+						<i class="icon-stack2"></i> <span class="font-weight-semibold">Curso ERP v2</span> - Quadit
 						<small class="d-block text-muted">Implementa un ERP a tu sistema</small>
 					</h5>
 				</div>
@@ -202,7 +202,7 @@
 			<div class="page-header-content border-bottom-2 border-bottom-danger">
 				<div class="page-title">
 					<h5>
-						<i class="icon-stack2"></i> <span class="font-weight-semibold">Curso de Laravel</span> - Quadit
+						<i class="icon-stack2"></i> <span class="font-weight-semibold">Curso de Laravel v2</span> - Quadit
 						<small class="d-block text-muted">Programa en un Framework con PHP 7</small>
 					</h5>
 				</div>
@@ -211,7 +211,7 @@
 			<div class="page-header-content border-bottom-2 border-bottom-danger">
 				<div class="page-title">
 					<h5>
-						<i class="icon-stack2"></i> <span class="font-weight-semibold">Curso de Angular</span> - Quadit
+						<i class="icon-stack2"></i> <span class="font-weight-semibold">Curso de Angular v2</span> - Quadit
 						<small class="d-block text-muted">Crea tus paginas web con Angular</small>
 					</h5>
 				</div>
@@ -220,7 +220,7 @@
 			<div class="page-header-content border-bottom-2 border-bottom-danger">
 				<div class="page-title">
 					<h5>
-						<i class="icon-stack2"></i> <span class="font-weight-semibold">Webinar widtgets</span> - Quadit
+						<i class="icon-stack2"></i> <span class="font-weight-semibold">Webinar widtgets v2</span> - Quadit
 						<small class="d-block text-muted">Implementa widtgets para tus modulos</small>
 					</h5>
 				</div>
@@ -229,7 +229,7 @@
 			<div class="page-header-content border-bottom-2 border-bottom-danger">
 				<div class="page-title">
 					<h5>
-						<i class="icon-stack2"></i> <span class="font-weight-semibold">Curso de Odoo 12</span> - Quadit
+						<i class="icon-stack2"></i> <span class="font-weight-semibold">Curso de Odoo 13</span> - Quadit
 						<small class="d-block text-muted">Toma el curso de Odoo y haz crecer tu empresa</small>
 					</h5>
 				</div>
@@ -238,7 +238,7 @@
 			<div class="page-header-content border-bottom-2 border-bottom-danger">
 				<div class="page-title">
 					<h5>
-						<i class="icon-stack2"></i> <span class="font-weight-semibold">Curso de Python 3.6</span> - Quadit
+						<i class="icon-stack2"></i> <span class="font-weight-semibold">Curso de Python 3.6 avanzado</span> - Quadit
 						<small class="d-block text-muted">Ingresa al mundo de la programacion con Python</small>
 					</h5>
 				</div>
@@ -247,7 +247,7 @@
 			<div class="page-header-content border-bottom-2 border-bottom-danger">
 				<div class="page-title">
 					<h5>
-						<i class="icon-stack2"></i> <span class="font-weight-semibold">Curso Node js</span> - Quadit
+						<i class="icon-stack2"></i> <span class="font-weight-semibold">Curso Node js Medio</span> - Quadit
 						<small class="d-block text-muted">Aprende Node Js con nosotros</small>
 					</h5>
 				</div>
@@ -255,7 +255,7 @@
 			<div class="page-header-content border-bottom-2 border-bottom-danger">
 				<div class="page-title">
 					<h5>
-						<i class="icon-stack2"></i> <span class="font-weight-semibold">Curso de Machine learning</span> - Quadit
+						<i class="icon-stack2"></i> <span class="font-weight-semibold">Curso de Machine learning principios</span> - Quadit
 						<small class="d-block text-muted">Aprende un lenguaje que tiene una vida larga dentro de la programación</small>
 					</h5>
 				</div>
@@ -264,7 +264,7 @@
 			<div class="page-header-content border-bottom-2 border-bottom-danger">
 				<div class="page-title">
 					<h5>
-						<i class="icon-stack2"></i> <span class="font-weight-semibold">Curso de Bootstrap</span> - Quadit
+						<i class="icon-stack2"></i> <span class="font-weight-semibold">Curso de Bootstrap para web comercial</span> - Quadit
 						<small class="d-block text-muted">Personaliza tus sitios web con este curso</small>
 					</h5>
 				</div>
@@ -273,7 +273,7 @@
 			<div class="page-header-content border-bottom-2 border-bottom-danger">
 				<div class="page-title">
 					<h5>
-						<i class="icon-stack2"></i> <span class="font-weight-semibold">Curso docker</span> - Quadit
+						<i class="icon-stack2"></i> <span class="font-weight-semibold">Curso docker v2</span> - Quadit
 						<small class="d-block text-muted">Dockeriza tu mundo</small>
 					</h5>
 				</div>
